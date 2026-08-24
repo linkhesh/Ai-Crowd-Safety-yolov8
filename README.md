@@ -58,6 +58,4 @@ The system uses **YOLOv8-based object detection** to identify people in video st
 ---
 ## 📸 Project Demo
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/linkhesh/Ai-Crowd-Safety-yolov8/main/dashboard.png" width="80%" alt="Crowd Detection Dashboard">
-</p>
+![Crowd Detection Dashboard](dashboard.png)
