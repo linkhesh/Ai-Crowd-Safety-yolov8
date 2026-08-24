@@ -71,3 +71,15 @@ The system uses **YOLOv8-based object detection** to identify people in video st
 ### 🚨 Overcrowding Detection
 
 ![Overcrowding Detection](overcrowding-alert.png)
+
+---
+
+## 💻 Main Implementation
+
+The core application is implemented in:
+
+📄 **`dashbrdfn.py`**
+
+The script handles the main crowd monitoring workflow, including video processing, YOLOv8-based detection, crowd analysis, and dashboard functionality.
+
+👉 [View the main source code](./dashbrdfn.py)
