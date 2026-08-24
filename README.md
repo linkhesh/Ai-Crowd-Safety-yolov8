@@ -53,9 +53,6 @@ The system uses **YOLOv8-based object detection** to identify people in video st
  🔔 Alert Generation
           ↓
 🌐 Flask Web Dashboard
-
-
----
+```
 ## 📸 Project Demo
-
 ![Crowd Detection Dashboard](dashboard.png)
