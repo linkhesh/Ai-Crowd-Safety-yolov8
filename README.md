@@ -83,3 +83,46 @@ The core application is implemented in:
 The script handles the main crowd monitoring workflow, including video processing, YOLOv8-based detection, crowd analysis, and dashboard functionality.
 
 👉 [View the main source code](./dashbrdfn.py)
+
+
+---
+
+## ▶️ How to Run
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/linkhesh/Ai-Crowd-Safety-yolov8.git
+cd Ai-Crowd-Safety-yolov8
+```
+
+### 2️⃣ Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3️⃣ Run the Application
+
+```bash
+python dashbrdfn.py
+```
+
+### 4️⃣ Open the Dashboard
+
+After starting the application, open the local Flask address shown in the terminal.
+
+---
+
+## 📁 Project Structure
+
+```text
+Ai-Crowd-Safety-yolov8/
+│
+├── dashbrdfn.py
+├── requirements.txt
+├── dashboard.png
+├── dashboard2.png
+├── overcrowding-alert.png
+└── README.md
+```
