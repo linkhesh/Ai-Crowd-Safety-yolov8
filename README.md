@@ -60,20 +60,4 @@ The system uses **YOLOv8-based object detection** to identify people in video st
 
 ## 📸 Project Demo
 
-### 👤 Real-Time Crowd Detection
-
-<p align="center">
-  <img src="./dashboard.png" width="80%" alt="Real-Time Crowd Detection"/>
-</p>
-
-### 🚨 Overcrowding Detection
-
-<p align="center">
-  <img src="./dashboard2.png" width="80%" alt="Overcrowding Detection"/>
-</p>
-
-### 🌐 Web Dashboard
-
-<p align="center">
-  <img src="./overcrowding-alert.png" width="80%" alt="Crowd Safety Dashboard"/>
-</p>
+<img src="dashboard.png" width="80%" alt="Crowd Detection Dashboard">
